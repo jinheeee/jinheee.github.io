@@ -25,11 +25,20 @@ description              : "My personal blog website."
 url                      : "https://jinheeee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jinheeee/jinheeee.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/teaser.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "My custom title" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
-words_per_minute         : 200
+defaults:
+  #_posts
+  -scope:
+     path:""
+    type: posts
+   values: 
+    show_date: true
+    date_format: "%B %-d, %Y"
+    read_time: true
+    words_per_minute: 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
