@@ -1,10 +1,3 @@
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+# Who is Hyun Jin Hee?
 
-    
+I am an *amazing* person 
