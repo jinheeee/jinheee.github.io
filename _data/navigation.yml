@@ -2,6 +2,10 @@
 main:
   - title: "About"
     url: https://jinheeee.github.io/_pages/About/
+  - title: "Projects"
+    url: https://jinheeee.github.io/_pages/Projects/
+  - title: "Experience"
+    url: /experience/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
@@ -12,5 +16,4 @@ main:
     url: /page-archive/
   - title: "Collections"
     url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+
