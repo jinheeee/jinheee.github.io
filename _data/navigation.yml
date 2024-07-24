@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: https://jinheeee.github.io/_pages/About/
+    url: /About/
   - title: "Projects"
-    url: https://jinheeee.github.io/_pages/Projects/
+    url: 
   - title: "Experience"
     url: /experience/
   - title: "Posts"
