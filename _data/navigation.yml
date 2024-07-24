@@ -5,7 +5,7 @@ main:
   - title: "Projects"
     url: 
   - title: "Experience"
-    url: /experience/
+    url:
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
@@ -15,5 +15,5 @@ main:
   - title: "Pages"
     url: /page-archive/
   - title: "Collections"
-    url: /collection-archive/
+    url: 
 
