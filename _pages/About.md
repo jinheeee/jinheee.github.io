@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "This is all about me, JinHee."
 layouts_gallery:
  - url: 
     image_path: 
