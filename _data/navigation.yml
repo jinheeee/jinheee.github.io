@@ -2,18 +2,18 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Projects"
-    url: 
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Projects"
+    url: 
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
     url: /categories/   
-  - title: "Tags"
-    url: 
   - title: "Pages"
     url: /page-archive/
+  - title: "Tags"
+    url: 
   - title: "Collections"
     url: 
 
