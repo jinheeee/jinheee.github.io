@@ -10,7 +10,7 @@ last_modified_at: 2024-07-24
 toc: true
 ---
 
-This blog is about me, JinHee :smile:.
+This blog is about me, JinHee :smile:
 
 
 ## Notable Features
